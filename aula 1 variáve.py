@@ -5,3 +5,13 @@ def soma(num1, num2):
 resultado = soma(5, 3)
 print(resultado)
 
+
+def tt(n1, n2):
+  teste = n1 + n2
+  return teste
+  
+igual = soma(3.3, 4.4)
+print (igual)
+  
+  
+  
