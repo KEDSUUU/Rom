@@ -1,7 +1,6 @@
-nome1 = int(input('digite um numero'))
-nome2 = int(input('digite outro numero'))
+def soma(num1, num2):
+    valor = num1 + num2
+    return valor
 
-soma = nome1+nome2
-
-print ('a soma de', nome1, 'mais',nome2,'é igual a',soma,)
-
+resultado = soma(5, 3)
+print(resultado)
