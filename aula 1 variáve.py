@@ -14,4 +14,4 @@ igual = tt(3.3, 4.4)
 print (igual)
   
   
-def teste
+def teste (1, )
